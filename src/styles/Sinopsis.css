@@ -1,0 +1,11 @@
+.container-sinopsis {
+    background-color: #586BA4;
+    border: solid 1px;
+    border-radius: 15px;
+    max-height: 90%;
+    gap: 10px;
+    padding: 20px;
+    font-size: 32px;
+    font-weight: bolder;
+    color: white;
+}
